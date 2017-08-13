@@ -48,11 +48,3 @@ message = client.messages.create(
 	from_="+15555551987", # Twilio Number
 	body="You currently have " + followers + " followers on Medium for [Insert Publication Name] publication!")
 
-
-
-
-
-
-
-
-
